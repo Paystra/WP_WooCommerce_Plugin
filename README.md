@@ -1,2 +1,2 @@
-# WC_WooCommerce_Plugin
+# WP_WooCommerce_Plugin
 PAYSTRAX COPYandPAY Wordpress Woocommerce Plugin
